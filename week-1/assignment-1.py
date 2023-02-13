@@ -1,0 +1,11 @@
+#Write a program to display a T pattern 
+print("===============================")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
+print("               ||         ")
