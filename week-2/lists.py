@@ -20,4 +20,4 @@ for vegetable in vegetables:
     print(vegetable)    
     for shopping in shoppings:
         print(shopping)
-print("My name is:" + names[0] + "and my favourite fruit is:" + fruits[-1])       
+print("My name is:" + names[0] + "and my favourite fruit is:" + fruits[-1])        
