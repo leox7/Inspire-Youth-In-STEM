@@ -35,4 +35,4 @@ print(new_friends)
 #listoffavmusicians
 #listofemptylistoffavmusicians
 #addusingforloopaddfivemusicians
-#copylisttoanewlist
+#copylisttoanewlists
