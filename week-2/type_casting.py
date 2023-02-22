@@ -17,3 +17,5 @@ y = " hello"
 print(type(y)) 
 
 print(len(y))
+
+maths_grade = 'A'
